@@ -1,4 +1,4 @@
-# 🎬 Dragon Live-Action Page 🦋
+# 🎬 HTTYD Live-Action Page 🦋
 
 <details open>
   <summary>🌐 <b>English Version</b></summary>
