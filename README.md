@@ -1,29 +1,49 @@
-# 🎬 Projeto Filme - Como treinar seu Dragão (2025)
+# 🎬 Dragon Live-Action Page 🦋
 
-- 👨‍💻 **Nome do aluno:** Stefany Marazo Estevam
-- 📚 **Curso/Turma:** Desenvolvimento de Sistemas 1IF
-- 🛠️ **Tecnologias Utilizadas:** VS Code, html, git hub e google chrome.
----
-## 🎯 Objetivo do Projeto
- Criar uma página em HTML, utilizando corretamente as principais tags estudadas em aula:
- 
- - **Tag h1 e h2**
- - **Tag img**
- - **Tag figurecaption**
- - **Tag link**
+<details open>
+  <summary>🌐 <b>English Version</b></summary>
+  <br />
 
- Organizando informações, imagens,textos e links de forma estruturada.
----
+  A structured HTML page dedicated to the live-action adaptation of *How to Train Your Dragon*, created to practice semantic tags and web layout organization. 🐛
 
-## 📌 Descrição da Página
-Página simples com as seguintes informações sobre o filme de live action, contendo as seguintes informações:
+  ## 🎯 Objectives
+  * Build a clean HTML structure utilizing core semantic elements learned during technical studies:
+    * Headings (`<h1>`, `<h2>`) for hierarchy.
+    * Image containers (`<img>`) and captions (`<figcaption>`).
+    * External style sheets (`<link>`).
+  * Organize multimedia content, text blocks, and cross-references effectively. 🐞
 
-- Ano de produção
-- Diretor
-- Duração
-- Classificação
-- Gênero
-- País de origem
-- Breve sinopse do filme esolhido
+  ## 📌 Page Overview
+  A lightweight informative web page featuring key details about the film:
+  * Production Year & Country of Origin
+  * Director & Runtime
+  * Age Rating & Genre
+  * A concise plot synopsis 🐜
 
----
+  ---
+  *An introductory web development exercise focused on structural integrity and design.*
+</details>
+
+<details>
+  <summary>🌐 <b>Versão em Português</b></summary>
+  <br />
+
+  Uma página HTML estruturada dedicada à adaptação live-action de *Como Treinar o seu Dragão*, criada para praticar tags semânticas e organização de layout web. 🐛
+
+  ## 🎯 Objetivos
+  * Construir uma estrutura HTML limpa utilizando elementos semânticos fundamentais aprendidos em estudos técnicos:
+    * Cabeçalhos (`<h1>`, `<h2>`) para hierarquia.
+    * Contenedores de imagem (`<img>`) e legendas (`<figcaption>`).
+    * Folhas de estilo externas (`<link>`).
+  * Organizar conteúdo multimídia, blocos de texto e referências cruzadas de forma eficiente. 🐞
+
+  ## 📌 Visão Geral da Página
+  Uma página web informativa e leve contendo detalhes essenciais sobre o filme:
+  * Ano de Produção e País de Origem
+  * Diretor e Duração
+  * Classificação Indicativa e Gênero
+  * Uma sinopse concisa da história 🐜
+
+  ---
+  *Um exercício introdutório de desenvolvimento web focado em integridade estrutural e design.*
+</details>
